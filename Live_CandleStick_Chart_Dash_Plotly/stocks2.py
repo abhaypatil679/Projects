@@ -1,4 +1,3 @@
-from turtle import width
 import yfinance
 import pandas as pd
 import plotly.graph_objects as go

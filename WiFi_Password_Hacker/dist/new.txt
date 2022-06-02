@@ -1,0 +1,89 @@
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : TL-MR3420
+    All User Profile     : SpaceX Starlink 5.0G
+    All User Profile     : Apsara
+    All User Profile     : Budhabhooshan's iPhone
+    All User Profile     : Abhay's Enclave
+    All User Profile     : Hidden_Network 2
+    All User Profile     : sdfghj
+    All User Profile     : Hidden_Network
+    All User Profile     : TP_Link_0919
+    All User Profile     : NamawarJio5G
+    All User Profile     : StudyHub-A-5G
+    All User Profile     : BVvN-UmVkbWk1QQ
+    All User Profile     : Airtel-WD670-B74B
+    All User Profile     : iBall-Baton
+    All User Profile     : redmi 2
+    All User Profile     : redmi
+    All User Profile     : Budhabhooshan's iPhone
+    All User Profile     : AndroidAP560E
+    All User Profile     : vivo 1933
+    All User Profile     : Satyam
+    All User Profile     : realme 5 Pro
+    All User Profile     : Hidden Network
+    All User Profile     : APSARA
+    All User Profile     : OPPO F11
+    All User Profile     : Realme 2 Pro
+    All User Profile     : Redmi 2
+    All User Profile     : JSPMNTC-RECEPTION
+    All User Profile     : JSPM
+    All User Profile     : OPPO A83
+    All User Profile     : JSPMNTC
+    All User Profile     : B2Nq-UmVkbWlOb3RlNA
+    All User Profile     : Kunal
+    All User Profile     : PPR3369
+    All User Profile     : cool1 dual
+    All User Profile     : mamta
+    All User Profile     : SATYAM
+    All User Profile     : AndroidAPAD5E
+    All User Profile     : BgAAAN475UMAXwGnRedmi Note 4
+    All User Profile     : Realme 5
+    All User Profile     : A
+    All User Profile     : A 2
+    All User Profile     : BwAAAHy01FMATwGuRedmi Note 5
+    All User Profile     : Micromax C1 2
+    All User Profile     : D-205
+    All User Profile     : g
+    All User Profile     : ASUS_X00TD
+    All User Profile     : Ekpaulpudhe 2
+    All User Profile     : JioNet@VJTI_Matunga
+    All User Profile     : abc
+    All User Profile     : AndroidShare_1236
+    All User Profile     : pablo
+    All User Profile     : Xender_APac26
+    All User Profile     : D205
+    All User Profile     : VJTI-LAB-1
+    All User Profile     : VJTI-LAB-2
+    All User Profile     : Mi A1
+    All User Profile     : Micromax C1
+    All User Profile     : virus
+    All User Profile     : CQAAAC3nf4cAHwFDRedmi 4
+    All User Profile     : ADYYUmVkbWlOb3RlNA
+    All User Profile     : pande
+    All User Profile     : Xender_AP8f1f
+    All User Profile     : BBjQ-QWRpdHlh
+    All User Profile     : CQAAAC4ctl0AXwHGRedmi Note 5 Pr
+    All User Profile     : Ekpaulpudhe
+    All User Profile     : VFWiFiVoucher
+    All User Profile     : BN69-TWljcm9tYXhDMQ
+    All User Profile     : RJ
+    All User Profile     : @MyVodafoneWiFi
+    All User Profile     : FREE  WIFI
+    All User Profile     : ADYYUmVkbWk0
+    All User Profile     : BQAAAJpvISIAPwGRRedmi 5A 2
+    All User Profile     : BQM0-TW90b0UoNClQbHVz
+    All User Profile     : BQAAAJpvISIADwFhRedmi 5A 2
+    All User Profile     : GiONEE P5L
+    All User Profile     : sanket@12
+    All User Profile     : One plus 6T
+    All User Profile     : BQAAAJpvISIADwFhRedmi 5A
+    All User Profile     : Vasurkar
+
