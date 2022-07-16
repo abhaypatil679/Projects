@@ -2,10 +2,11 @@ import yfinance
 import pandas as pd
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
+
 df = pd.read_csv('./Tickers_info.csv', encoding_errors='ignore')
 # df.sort_values(by='Name', inplace=True)
 df.set_index('Name', inplace=True)
-df.head()
+# df.head()
 
 app = Dash(__name__)
 
