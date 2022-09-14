@@ -1,3 +1,5 @@
+#app url: http://www.tradewihtnifty.ml
+
 import yfinance
 import pandas as pd
 import plotly.graph_objects as go
