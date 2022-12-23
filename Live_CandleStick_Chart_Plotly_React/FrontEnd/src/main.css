@@ -1,0 +1,42 @@
+/* * {
+	border: 1px dashed black;
+} */
+
+.container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+
+.row-fig {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.col-8 {
+	width: 400px;
+}
+.col-4 {
+	width: 400px;
+}
+.col-2 {
+	width: 200px;
+}
+
+.ant-select {
+	width: inherit;
+}
+
+.root {
+	width: 100%;
+}
