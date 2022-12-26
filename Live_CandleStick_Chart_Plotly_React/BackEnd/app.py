@@ -44,8 +44,9 @@ def plolty_callback():
     layout.height = 400
 
     if period == '1d':
-        start = datetime.strptime('2022-12-26 09:00:00', '%Y-%m-%d %H:%M:%S')
-        end = datetime.strptime('2022-12-26 15:30:00', '%Y-%m-%d %H:%M:%S')
+        present_day = df_scrip.iloc[0].name.strftime('%Y-%m-%d')
+        start = datetime.strptime(present_day + '09:00:00', '%Y-%m-%d%H:%M:%S')
+        end = datetime.strptime(present_day + '15:30:00', '%Y-%m-%d%H:%M:%S')
         layout.xaxis.range = [start, end]
 
     fig_candle.layout = layout
