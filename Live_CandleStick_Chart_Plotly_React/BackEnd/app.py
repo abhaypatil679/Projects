@@ -26,6 +26,7 @@ def plolty_callback():
     }
     df_scrip = scrip.history(period=period, interval=interval[period], rounding=True)
     # df_scrip = scrip.history(period='1d', start='2020-01-01', rounding=True)
+    df_scrip.drop(index=df_scrip.index[-1], inplace=True)
 
     fig_candle = Figure()
     layout = Layout()
